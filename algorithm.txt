@@ -1,7 +1,27 @@
-step 1 : START
-step 2 : INPUT num1
-step 3 : INPUT num2
-step 4 : PROCESS sum = num1 + num2
-step 5 : DISPLAY sum
-step 6 : END
+Step 1: START
+step 2: ask for num1
+step 3:ask for num2
+step 4:compute sum = num1 + num2 
+step 5:display sum
+step 6:End.
+
+
+ACTIVITY 2:
+Step 1: START.
+Step 2: Ask for score1.
+Step 3: Ask for score2.
+Step 4: Ask for score3.
+Step 5: Compute average = (score1 + score2 + score3) / 3.
+Step 6: Display average.
+Step 7: End.
+
+
+
+ACTIVITY 3: 
+Step 1: Start.
+step 2: Ask for num 1.
+step 3: Ask for num 2. 
+step 4:  Compute sum = num1 + num2.
+step 5:Display sum.
+step 6: End.
 
